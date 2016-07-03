@@ -4,7 +4,7 @@
 <title>Sean Cook</title>
 <link href='https://fonts.googleapis.com/css?family=Comfortaa:300|Coda:400,800' rel='stylesheet' type='text/css'>
 <script src="http://d3js.org/d3.v3.min.js"></script>
-<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+<link rel="stylesheet" type="text/css" href="http://www.seancook.info/resume/css/stylesheet.css">
 <body background = "http://feelgrafix.com/data_images/out/12/862702-ocean-mist-wallpaper.jpg">
 </head>
 
