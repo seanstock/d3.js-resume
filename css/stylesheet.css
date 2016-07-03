@@ -1,0 +1,48 @@
+
+body {
+    font-family: 'Coda', cursive, Helvetica;
+    font-size: 14;
+    color: black;
+    background-size: 100% 100%;
+}
+svg {
+    padding: 15px 0 0 10px;
+    font-family: 'Coda', cursive, Helvetica;
+    display: block;
+}
+.resume {
+    top: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+}
+.description {
+    padding: 20px 20px 20px 20px;
+    top: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+}
+.experience {
+    height: 600px;
+    width: 65%;
+    float: left;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+}
+.skills {
+    height: 600px;
+    float: right;
+    width: 34%;
+    padding-left:-5px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    fill: #0565E1;
+    color: white;
+}
+.con {
+    height: 800px;
+    width: 70%;
+    margin: auto;
+}
+
